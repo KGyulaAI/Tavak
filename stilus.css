@@ -1,0 +1,63 @@
+img {
+    width: 100px;
+}
+
+table {
+    background-color: white;
+    border-color: lightsteelblue;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 2px;
+    border-collapse: separate;
+    border-spacing: 4px;
+    align-content: center;
+    color: darkblue;
+    margin: auto;
+    text-align: center;
+}
+
+thead {
+    background-color: rgb(110, 110, 255);
+}
+
+tbody {
+    background-color: rgb(218, 227, 240);
+}
+
+tfoot {
+    background-color: rgb(218, 227, 240);
+}
+
+th {
+    border-radius: 5px;
+    box-shadow: 2px 2px darkblue;
+    width: 100px;
+    height: 50px;
+}
+
+td {
+    border-radius: 5px;
+    box-shadow: 2px 2px darkblue;
+    width: 100px;
+    height: 50px;
+}
+
+.elso-oszlop {
+    background-color: rgb(192, 192, 245);
+}
+
+.elso-sor {
+
+}
+
+.utolso-oszlop {
+    background-color: lightgrey;
+}
+
+.piros {
+    color: red;
+}
+
+#velencei-to {
+    background-color: grey;
+}
